@@ -122,6 +122,8 @@ Business models prone to bankruptcy: airlines, hotels, and retail.
 	- (from my experience): figure out what people are good at and cultivate an environment that let's them be productive
 - Debate ideas, not people.
 
+Other thoughts on what makes a good team: https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/
+
 
 
 ## other notes
