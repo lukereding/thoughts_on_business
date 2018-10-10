@@ -124,7 +124,7 @@ Business models prone to bankruptcy: airlines, hotels, and retail.
 
 Other thoughts on what makes a good team: https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/
 
-
+Thoughts on managing / leading a team: https://getweeklyupdate.com/manager-guide
 
 ## other notes
 
